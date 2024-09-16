@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dog_encyclopedia/static/css/main.bbb68b58.css",
+    "main.js": "/dog_encyclopedia/static/js/main.e640713f.js",
+    "static/js/453.d8a23f98.chunk.js": "/dog_encyclopedia/static/js/453.d8a23f98.chunk.js",
+    "static/media/file.jpg": "/dog_encyclopedia/static/media/file.3b7553ab270c911771cb.jpg",
+    "index.html": "/dog_encyclopedia/index.html",
+    "main.bbb68b58.css.map": "/dog_encyclopedia/static/css/main.bbb68b58.css.map",
+    "main.e640713f.js.map": "/dog_encyclopedia/static/js/main.e640713f.js.map",
+    "453.d8a23f98.chunk.js.map": "/dog_encyclopedia/static/js/453.d8a23f98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb68b58.css",
+    "static/js/main.e640713f.js"
+  ]
+}
