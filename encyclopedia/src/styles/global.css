@@ -1,0 +1,23 @@
+*, *:before, *:after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+    color: #acbdce;
+  }
+html {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background-image: linear-gradient(
+		rgba(0,128,0, 0.75), 
+		rgba(0, 0, 0, 1)
+	  ), url('../images/file.jpg');
+	background-position: center;
+    background-size:contain;
+	background-repeat:initial;
+	font-family: Arial, sans-serif;
+  	text-align: center;
+}
