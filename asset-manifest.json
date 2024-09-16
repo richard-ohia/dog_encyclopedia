@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dog_encyclopedia/static/css/main.bbb68b58.css",
-    "main.js": "/dog_encyclopedia/static/js/main.e640713f.js",
-    "static/js/453.d8a23f98.chunk.js": "/dog_encyclopedia/static/js/453.d8a23f98.chunk.js",
-    "static/media/file.jpg": "/dog_encyclopedia/static/media/file.3b7553ab270c911771cb.jpg",
-    "index.html": "/dog_encyclopedia/index.html",
-    "main.bbb68b58.css.map": "/dog_encyclopedia/static/css/main.bbb68b58.css.map",
-    "main.e640713f.js.map": "/dog_encyclopedia/static/js/main.e640713f.js.map",
-    "453.d8a23f98.chunk.js.map": "/dog_encyclopedia/static/js/453.d8a23f98.chunk.js.map"
+    "main.css": "/encyclopedia/static/css/main.be14f11e.css",
+    "main.js": "/encyclopedia/static/js/main.eebd3e6b.js",
+    "static/js/453.d8a23f98.chunk.js": "/encyclopedia/static/js/453.d8a23f98.chunk.js",
+    "static/media/file.jpg": "/encyclopedia/static/media/file.3b7553ab270c911771cb.jpg",
+    "index.html": "/encyclopedia/index.html",
+    "main.be14f11e.css.map": "/encyclopedia/static/css/main.be14f11e.css.map",
+    "main.eebd3e6b.js.map": "/encyclopedia/static/js/main.eebd3e6b.js.map",
+    "453.d8a23f98.chunk.js.map": "/encyclopedia/static/js/453.d8a23f98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbb68b58.css",
-    "static/js/main.e640713f.js"
+    "static/css/main.be14f11e.css",
+    "static/js/main.eebd3e6b.js"
   ]
 }
